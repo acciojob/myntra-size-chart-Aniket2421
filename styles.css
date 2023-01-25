@@ -1,2 +1,35 @@
+table{
+	width : 80%;
+	border : 1px solid black;
+	border-spacing: 0;
+}
+th,tr,td{
+	text-align : start;
+	border : 1px solid black;
+	  border-collapse: separate;
+	overflow:hidden;
+}
+.row{
+	
+background-color: rgb(209, 79, 79);
+	color:white;
+}
+	.row1{
+	
+ background-color: rgb(184, 95, 95);
+	color:white;
+}
+	.row2{
+	
+background-color: rgb(195, 127, 127);
+	color:white;
+}
+	.row3{
+	
+background-color: rgb(222, 173, 173);
+	color:white;
+}
 
-/* Your CSS Code here. */
+	
+	
+}
